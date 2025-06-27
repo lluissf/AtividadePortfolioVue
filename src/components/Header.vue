@@ -3,9 +3,9 @@
   <header>
     <nav>
       <ul>
-        <li><a href="index.html">Blog</a></li>
-        <li><a href="ft-works.html">Works</a></li>
-        <li><a href="#">Contact</a></li>
+        <li><router-link to="/"> Blog</router-link></li>
+        <li><router-link to="/"> Works</router-link></li>
+        <li><router-link to="/"> Contact</router-link></li>
       </ul>
     </nav>
   </header>
