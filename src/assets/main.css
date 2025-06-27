@@ -1,0 +1,33 @@
+@import './reset.css';
+
+/* ============================================================================================
+                                GERAL   
+   ============================================================================================                            
+*/
+html {
+  font-size: calc(15px + 0.390625vw);
+}
+
+body {
+  color: #21243d;
+  font-family:
+    'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: #21243d;
+}
+
+p {
+  line-height: 130%;
+}
+
+section h2 {
+  text-align: center;
+  margin: 5px;
+}
+
+img {
+  max-width: 100%;
+}
